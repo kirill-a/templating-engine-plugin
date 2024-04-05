@@ -18,7 +18,7 @@ version = '2.5.3'
 description = 'Allows users to create tool-agnostic, templated pipelines to be shared by multiple teams'
 
 jenkinsPlugin {
-    jenkinsVersion.set('2.387.3')
+    jenkinsVersion.set('2.346.4')
     pluginId.set('templating-engine')
     humanReadableName.set('Templating Engine')
     homePage.set(uri('https://github.com/jenkinsci/templating-engine-plugin'))
